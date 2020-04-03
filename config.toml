@@ -74,8 +74,8 @@ URL = "https://www.edgs.northwestern.edu/arryman-program/index.html"
 weight = 5
 
 [[menu.main]]
-name = "Lecture"
-URL = "https://www.youtube.com/watch?v=MSxRl_9zW60&feature=youtu.be"
+name = "Assemblage"
+URL = "https://medium.com/moving-aperture"
 weight = 6
 
 [[menu.main]]

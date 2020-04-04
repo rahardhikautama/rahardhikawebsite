@@ -62,20 +62,19 @@ name = "Book Project"
 URL = "#service"
 weight = 3
 
+[[menu.main]]
+name = "Assemblage"
+URL = "https://medium.com/moving-aperture"
+weight = 4
 
 [[menu.main]]
 name = "Awards and Grants"
 URL = "#testimonial"
-weight = 4
+weight = 5
 
 [[menu.main]]
 name = "Arryman Program"
 URL = "https://www.edgs.northwestern.edu/arryman-program/index.html"
-weight = 5
-
-[[menu.main]]
-name = "Assemblage"
-URL = "https://medium.com/moving-aperture"
 weight = 6
 
 [[menu.main]]

@@ -70,30 +70,14 @@ experience:
 
 ############################### Skill #################################
 skill:
-  enable : false
-  title : "SKILL"
-  skill_list:
-    # skill item loop
-    - name : "Web Development"
-      parcentage : "98%"
-      
-    # skill item loop
-    - name : "Graphic Design"
-      parcentage : "85%"
-      
-    # skill item loop
-    - name : "Database Management"
-      parcentage : "90%"
-      
-    # skill item loop
-    - name : "Wordpress"
-      parcentage : "70%"
+  enable : true
+  image : "images/backgrounds/portrait12.jpg"
 
 
 ################################### Service ##############################3
 service:
   enable : true
-  image : "images/backgrounds/portrait3.jpg"
+  image : "images/backgrounds/portrait13.jpg"
   title : "BOOK PROJECT"
   content : "My book project aims to contest, refine, and organize existing theories of economic transformation among late developing countries in the Global South, particularly in Southeast Asia. It addresses the variety of development in agrarian economies that sustained a significant agricultural burden before underwent industrialization. Despite having to deal with a large agricultural sector at the onset of post-colonial state-building, why did some countries succeed in transforming their economy while others did not? The book also proposes an innovative solution to the problem of an unsustainable path to economic development. This problem leads not only to environmental degradation but also to three conditions that perpetuate poverty in the Global South: rising inequality, the expansion of a vulnerable urban informal sector, and the endurance of an inefficient agriculture economy. What path of economic transformation should countries in the Global South take to achieve a higher economic level without necessarily following the unsustainable development blueprint of their counterparts in the North? I demonstrate that political relations between the state and peasantry class molded the path of economic transformation that has resulted in the discrepancy in levels of development, environmental sustainability, and social protection. The arguments in this book contribute to the debate on institutional explanations of development in the fields of sociology of development, political economy, and economic history. For this project, I conducted extensive archival research at 20 libraries and archive centers in Indonesia, Malaysia, Singapore, Thailand, Netherlands, the United States, and the United Kingdom. I also gathered oral history, interviews, and observations from multi-sited ethnography fieldwork in multiple rubber communities Malaysia, Indonesia, Thailand, and Myanmar."
 

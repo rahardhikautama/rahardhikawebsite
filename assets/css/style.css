@@ -895,8 +895,8 @@ input:checked + label span:last-child {
 }
 
 .about-me-images img {
-  width: 100%;
-  -webkit-filter: grayscale(100%);
+  width: 70%;
+  -webkit-filter: grayscale(70%);
   -moz-filter: grayscale(100%);
   -ms-filter: grayscale(100%);
   -o-filter: grayscale(100%);
@@ -909,7 +909,7 @@ input:checked + label span:last-child {
 }
 
 .about-me-images img:hover {
-  width: 100%;
+  width: 70%;
   -webkit-filter: grayscale(0%);
   -moz-filter: grayscale(0%);
   -ms-filter: grayscale(0%);
@@ -1011,7 +1011,7 @@ ul.experience-chart h4 {
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
-  width: 100%;
+  width: 70%;
   background: #fff;
   border: 2px solid #6f6f6f;
   height: 18px;

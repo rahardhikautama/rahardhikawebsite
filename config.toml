@@ -90,8 +90,8 @@ weight = 7
 logo_light = "images/logo_rhdk.png"
 logo_dark = "images/logo_rhdk-dark.png"
 # Meta data
-description = "This is meta description"
-author = "somrat"
+description = "Rahardhika Utama is an aspiring sociologist, photographer, and ethnographer. He is writing a comparative historical sociology of rubber and postcolonial development in Southeast Asia"
+author = "Rahardhika"
 # contact form action
 contact_form_action = "https://formspree.io/xoqlzlje" # contact form works with https://formspree.io/xoqlzlje
 # Google Analitycs

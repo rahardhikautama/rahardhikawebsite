@@ -45,7 +45,7 @@ about:
   button:
     enable : true
     label : "DOWNLOAD MY CV"
-    link : "images/portfolio/Utama_CV_040120_web.pdf" # you can put your cv in static folder and give the path here.
+    link : "images/portfolio/Utama_CV_060120_web.pdf" # you can put your cv in static folder and give the path here.
 
 ###########################3 Experience ##############################
 experience:
@@ -122,6 +122,12 @@ testimonial:
   enable : true
   title : "AWARDS AND GRANTS"
   testimonial_slider:
+      # slider item loop
+    - name : "American Sociological Association"
+      image : "images/clients/client6.jpg"
+      designation : "Section on Sociology of Development"
+      content : "Honorable Mention | Outstanding Graduate Student Paper Award (2020)"
+                
       # slider item loop
     - name : "The Arryman Program"
       image : "images/clients/client4.jpg"

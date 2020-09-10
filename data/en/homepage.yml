@@ -153,7 +153,7 @@ testimonial:
       content : "The Henry Luce Foundation Pre-Dissertation Fellowship 2016"
 
     # slider item loop
-    - name : "Buffett Institute for Global Affairs at Northwestern"
+    - name : "Buffett Institute for Global Affairs at Northwestern University"
       image : "images/clients/client2.jpg"
       designation : ""
       content : "2020 Global Impacts Graduate Fellow"

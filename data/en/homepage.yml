@@ -40,7 +40,7 @@ about:
   enable : true
   image : "images/backgrounds/portrait8.jpg"
   title : "ABOUT ME"
-  content : "I am a PhD candidate in the Sociology Department at Northwestern University. I am also an Arryman Scholar at the Equality Development and Globalization Studies at Northwestern. My current research explains the variation of development among agrarian economies of Southeast Asia. I am interested in examining historical factors that transform and sustain agrarian society by tracing domestic and international forces from colonial to contemporary periods that significantly shaped the institutional development around economic transformation in Southeast Asia. I focus on investigating the consequences of political violence on variation in agricultural development. For my dissertation project, Embedded Peasantry: Diverging Paths in Southeast Asia Rubber Economies, I use the case of natural rubber plantation and manufacturing industries to examine the bifurcation of development among historically prominent rubber producing countries. I employ a comparative historical framework to analyze evidence collected through archival study, interviews, and ethnographic fieldworks in rubber communities across Southeast Asia."
+  content : "I am a PhD candidate in the Sociology Department at Northwestern University. I am also an Arryman Scholar at the Equality Development and Globalization Studies at Northwestern as well as a Global Impacts Graduate Fellow at the Northwestern Buffett Institute for Global Affairs. My current research explains the variation of development among agrarian economies of Southeast Asia. I am interested in examining historical factors that transform and sustain agrarian society by tracing domestic and international forces from colonial to contemporary periods that significantly shaped the institutional development around economic transformation in Southeast Asia. I focus on investigating the consequences of political violence on variation in agricultural development. For my dissertation project, Embedded Peasantry: Diverging Paths in Southeast Asia Rubber Economies, I use the case of natural rubber plantation and manufacturing industries to examine the bifurcation of development among historically prominent rubber producing countries. I employ a comparative historical framework to analyze evidence collected through archival study, interviews, and ethnographic fieldworks in rubber communities across Southeast Asia."
   # button
   button:
     enable : true
@@ -153,10 +153,10 @@ testimonial:
       content : "The Henry Luce Foundation Pre-Dissertation Fellowship 2016"
 
     # slider item loop
-    - name : "Buffett Institute for Global Affairs"
+    - name : "Buffett Institute for Global Affairs at Northwestern"
       image : "images/clients/client2.jpg"
-      designation : "Comparative Historical Social Science Cluster"
-      content : "2017 Research Grant; Runner up of Graduate Research Photo Competition"
+      designation : ""
+      content : "2020 Global Impacts Graduate Fellow"
 
     
 

@@ -40,7 +40,7 @@ about:
   enable : true
   image : "images/backgrounds/portrait8.jpg"
   title : "ABOUT ME"
-  content : "I am a PhD candidate in the Sociology Department at Northwestern University. I am also an Arryman Scholar at the Equality Development and Globalization Studies at Northwestern as well as a Global Impacts Graduate Fellow at the Northwestern Buffett Institute for Global Affairs. My current research explains the variation of development among agrarian economies of Southeast Asia. I am interested in examining historical factors that transform and sustain agrarian society by tracing domestic and international forces from colonial to contemporary periods that significantly shaped the institutional development around economic transformation in Southeast Asia. I focus on investigating the consequences of political violence on variation in agricultural development. For my dissertation project, Embedded Peasantry: Diverging Paths in Southeast Asia Rubber Economies, I use the case of natural rubber plantation and manufacturing industries to examine the bifurcation of development among historically prominent rubber producing countries. I employ a comparative historical framework to analyze evidence collected through archival study, interviews, and ethnographic fieldworks in rubber communities across Southeast Asia."
+  content : "I am a PhD candidate in the [Sociology Department at Northwestern University](https://sociology.northwestern.edu/people/graduate-students/profiles/rahardhika-arista-utama.html). I am also an [Arryman Scholar](https://www.edgs.northwestern.edu/arryman-program/index.html) at the Equality Development and Globalization Studies at Northwestern as well as a [Global Impacts Graduate Fellow](https://buffett.northwestern.edu/community/scholars/global-impacts-graduate-fellowship-2020-2021-cohort.html) at the Northwestern Buffett Institute for Global Affairs. My current research explains the variation of development among agrarian economies of Southeast Asia. I am interested in examining historical factors that transform and sustain agrarian society by tracing domestic and international forces from colonial to contemporary periods that significantly shaped the institutional development around economic transformation in Southeast Asia. I focus on investigating the consequences of political violence on variation in agricultural development. For my dissertation project, *Embedded Peasantry and Economic Transformation in the Asian Rubber Belt*, I use the case of natural rubber plantation and manufacturing industries to examine the bifurcation of development among historically prominent rubber producing countries. I employ a comparative historical framework to analyze evidence collected through archival study, interviews, and ethnographic fieldworks in rubber communities across Southeast Asia."
   # button
   button:
     enable : true
@@ -55,7 +55,7 @@ experience:
     # experience item loop
     - name : "Embedded Peasantry"
       company : "Comparative Historical Sociology of Natural Rubber and Paths of Development in Southeast Asia"
-      content : "Despite sharing many commonalities with Indonesia, Malaysia has managed to transform into an industrialized economy faster and more successfully. What explains this variation? I argue that the answer lies in how the state reacted to the peasants' orientation toward communist movement in the post-colonial state-building period of 1945 to 1966 amidst the Cold War geopolitics in the two countries. The different anti-communist orientations forged a divergent path of the agrarian political relations in the two neighboring countries: the embedded peasantry in Malaysia and the dis-embedded peasantry in Indonesia. "
+      content : "Despite sharing many commonalities with Indonesia, Malaysia has managed to transform into an industrialized economy faster and more successfully. What explains this variation? I argue that the answer lies in how the state reacted to the peasants' orientation toward communist movement in the post-colonial state-building period of 1945 to 1966 amidst the Cold War geopolitics in the two countries. The different anti-communist orientations forged a divergent path of the agrarian political relations in the two neighboring countries: the embedded peasantry in Malaysia and the dis-embedded peasantry in Indonesia. A draft of journal publication from this research titled *Embedded Peasantry: Path-Dependence and Economic Transformation in Indonesia and Malaysia* won an [Honorable Mention for the Sociology of Development Section Graduate Student Paper Award from the American Sociological Association](https://sociologyofdevelopment.com/2020/07/07/2020-section-awards-results/) "
       
     # experience item loop
     - name : "Color in Politics"
@@ -99,7 +99,7 @@ portfolio:
   title : "ASSEMBLAGE"
   portfolio_list:
     # portfolio item loop
-    - name : ""
+    - name : "Photography"
       image : "images/portfolio/item2.jpg"
       date : ""
       category : "Photography"
@@ -125,8 +125,14 @@ testimonial:
       # slider item loop
     - name : "American Sociological Association"
       image : "images/clients/client6.jpg"
-      designation : "Section on Sociology of Development"
+      designation : "[Section on Sociology of Development](https://sociologyofdevelopment.com/2020/07/07/2020-section-awards-results/)"
       content : "Honorable Mention | Outstanding Graduate Student Paper Award (2020)"
+
+      # slider item loop
+    - name : "Northwestern Buffett Institute for Global Affairs"
+      image : "images/clients/client2.jpg"
+      designation : ""
+      content : "[2020 Global Impacts Graduate Fellow](https://buffett.northwestern.edu/)"
                 
       # slider item loop
     - name : "The Arryman Program"
@@ -137,26 +143,21 @@ testimonial:
       # slider item loop
     - name : "AICEF"
       image : "images/clients/client1.jpg"
-      designation : "American Indonesian Cultural and Educational Foundation Inc."
+      designation : "[American Indonesian Cultural and Educational Foundation Inc.](http://www.aicef.org/)"
       content : "2019 Travel Research Grant"
 
       # slider item loop
     - name : "EDGS"
       image : "images/clients/client3.jpg"
-      designation : "Equality Development and Globalization Studies at The Buffett Institute, Northwestern University "
+      designation : "[Equality Development and Globalization Studies](https://www.edgs.northwestern.edu/) "
       content : "2017-2019 Arryman Doctoral Research Grant"
                 
     # slider item loop
     - name : "SEAREG"
       image : "images/clients/client5.jpg"
-      designation : "Southeast Asia Research Group"
+      designation : "[Southeast Asia Research Group](https://seareg.org/)"
       content : "The Henry Luce Foundation Pre-Dissertation Fellowship 2016"
 
-    # slider item loop
-    - name : "Buffett Institute for Global Affairs at Northwestern University"
-      image : "images/clients/client2.jpg"
-      designation : ""
-      content : "2020 Global Impacts Graduate Fellow"
 
     
 

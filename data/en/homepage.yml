@@ -55,7 +55,7 @@ experience:
     # experience item loop
     - name : "Embedded Peasantry"
       company : "Comparative Historical Sociology of Natural Rubber and Paths of Development in Southeast Asia"
-      content : "Despite sharing many commonalities with Indonesia, Malaysia has managed to transform into an industrialized economy faster and more successfully. What explains this variation? I argue that the answer lies in how the state reacted to the peasants' orientation toward communist movement in the post-colonial state-building period of 1945 to 1966 amidst the Cold War geopolitics in the two countries. The different anti-communist orientations forged a divergent path of the agrarian political relations in the two neighboring countries: the embedded peasantry in Malaysia and the dis-embedded peasantry in Indonesia. A draft of journal publication from this research titled *Embedded Peasantry: Path-Dependence and Economic Transformation in Indonesia and Malaysia* won an [Honorable Mention for the Sociology of Development Section Graduate Student Paper Award from the American Sociological Association](https://sociologyofdevelopment.com/2020/07/07/2020-section-awards-results/) "
+      content : "Despite sharing many commonalities with Indonesia, Malaysia has managed to transform into an industrialized economy faster and more successfully. What explains this variation? I argue that the answer lies in how the state reacted to the peasants' orientation toward communist movement in the post-colonial state-building period of 1945 to 1966 amidst the Cold War geopolitics in the two countries. The different anti-communist orientations forged a divergent path of the agrarian political relations in the two neighboring countries: the embedded peasantry in Malaysia and the dis-embedded peasantry in Indonesia. Working papers from this research titled 1) *Embedded Peasantry: Path-Dependence and Economic Transformation in Indonesia and Malaysia* received an [Honorable Mention for the 2020 Sociology of Development Section Graduate Student Paper Award from the American Sociological Association](https://sociologyofdevelopment.com/2020/07/07/2020-section-awards-results/), and 2) *Politics of Memory, Underdevelopment, and Remnants of Political Violence in the Sumatra Rubber Belt* received the [2021 Hayward R. Alker Best Student Paper Award from the American Political Science Association](https://connect.apsanet.org/interpretationandmethod/the-hayward-r-alker-best-student-paper-award/)."
       
     # experience item loop
     - name : "Color in Politics"
@@ -99,7 +99,7 @@ portfolio:
   title : "ASSEMBLAGE"
   portfolio_list:
     # portfolio item loop
-    - name : "Photography"
+    - name : ""
       image : "images/portfolio/item2.jpg"
       date : ""
       category : "Photography"
@@ -123,6 +123,11 @@ testimonial:
   title : "AWARDS AND GRANTS"
   testimonial_slider:
       # slider item loop
+    - name : "American Political Science Association"
+      image : "images/clients/client7.jpg"
+      designation : "[Interpretive Methodologies and Methods](https://connect.apsanet.org/interpretationandmethod/the-hayward-r-alker-best-student-paper-award/)"
+      content : "The Hayward R. Alker Best Student Paper Award (2021)"
+
     - name : "American Sociological Association"
       image : "images/clients/client6.jpg"
       designation : "[Section on Sociology of Development](https://sociologyofdevelopment.com/2020/07/07/2020-section-awards-results/)"

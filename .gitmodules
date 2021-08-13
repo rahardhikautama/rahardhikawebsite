@@ -2,3 +2,7 @@
 	path = public
 	url = https://github.com/rahardhikautama/rahardhikautama.github.io.git
 	branch = master
+[submodule "rahardhikautama.github.io"]
+	path = rahardhikautama.github.io
+	url = https://github.com/rahardhikautama/rahardhikautama.github.io.git
+	branch = master
